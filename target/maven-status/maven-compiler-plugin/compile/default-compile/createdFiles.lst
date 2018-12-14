@@ -1,2 +1,6 @@
+com\mblackhall\com\calculator\DateCalculator.class
 com\mblackhall\com\DateCalculatorApplication.class
 com\mblackhall\com\ServletInitializer.class
+com\mblackhall\com\config\DateCalculatorConfig.class
+com\mblackhall\com\controllers\DateCalculatorController.class
+result\Result.class
